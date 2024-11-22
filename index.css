@@ -1,5 +1,5 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 
@@ -11,6 +11,7 @@ h1 {
 p, 
 li {
   font-size: 18px;
+  color:purple;
 }
 
 
