@@ -21,7 +21,13 @@ a {
 body {
   background-color: black;
 }
-td,th{
+td{
+  border: 2px white;
+}
+th{
+  border: 2px white;
+}
+tr{
   border: 2px white;
 }
 tbody{
