@@ -4,7 +4,7 @@
 
 
 h1 {
-  color: SeaGreen;
+  color: Purple;
 }
 
 
@@ -22,7 +22,7 @@ body {
   background-color: black;
 }
 td,th{
-  border: 2px Dark Blue;
+  border: 2px white;
 }
 tbody{
   color: white;
