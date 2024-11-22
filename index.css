@@ -24,7 +24,7 @@ a {
 }
 
 body {
-  background-color: black;
+  background-image: linear-gradient(Black,Blue,Purple);
 }
 td{
   border: 2px solid white;
