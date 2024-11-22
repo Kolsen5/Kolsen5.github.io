@@ -22,8 +22,12 @@ a {
 body {
   background-color: red;
 }
-tr,
-th,
 td{
+  color:black;
+}
+tr{
+  color:black;
+}
+th{
   color:black;
 }
