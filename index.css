@@ -1,5 +1,6 @@
 * {
   font-family: Helvetica, Arial, sans-serif;
+  background-color: red;
 }
 
 
@@ -19,5 +20,5 @@ a {
 }
 
 body {
-  background-color: Red;
+  background-color: red;
 }
