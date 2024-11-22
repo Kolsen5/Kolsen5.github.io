@@ -5,6 +5,7 @@
 
 h1 {
   color: Purple;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 
 
@@ -14,6 +15,7 @@ li {
   color:purple;
   font-weight: bold;
   border: 2px white;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 
 
@@ -33,7 +35,5 @@ th{
 tr{
   border: 2px white;
 }
-tbody{
-  color: white;
-}
+
 
