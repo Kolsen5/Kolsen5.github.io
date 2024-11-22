@@ -1,9 +1,5 @@
 * {
   font-family: "Times New Roman", Times, serif;
-  text-shadow: -1px 1px 0 #ffffff, 
-                1px 1px 0 #ffffff00, 
-                1px -1px 0 #ffffff, 
-                -1px -1px 0 #ffffff;
 }
 
 
@@ -44,6 +40,12 @@ th{
 }
 tr{
   border: 2px solid white;
+div{
+    font-size: 25px;
+    text-shadow: -1px 1px 0 #ffffff, 
+                1px 1px 0 #ffffff00, 
+                1px -1px 0 #ffffff, 
+                -1px -1px 0 #ffffff;
 }
 
 
