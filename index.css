@@ -29,6 +29,7 @@ body {
 td{
   border: 2px solid white;
   color:white;
+  width: 300px;
 }
 th{
   border: 2px solid white;
