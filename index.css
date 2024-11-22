@@ -1,6 +1,5 @@
 * {
   font-family: Helvetica, Arial, sans-serif;
-  background-color: red;
 }
 
 
@@ -20,9 +19,12 @@ a {
 }
 
 body {
-  background-color: red;
+  background-color: black;
 }
 td,th{
   border: 2px solid black;
+}
+tbody{
+  color: white;
 }
 
