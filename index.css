@@ -22,12 +22,7 @@ a {
 body {
   background-color: red;
 }
-td{
-  color:black;
+td,th{
+  border: 2px solid black;
 }
-tr{
-  color:black;
-}
-th{
-  color:black;
-}
+
