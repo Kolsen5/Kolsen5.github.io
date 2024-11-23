@@ -12,13 +12,9 @@ h1 {
 p, 
 li {
   font-size: 24px;
-  color:black;
+  color: White;
   font-weight: bold;
   border: 2px white;
-  text-shadow: -1px 1px 0 #ffffff, 
-                1px 1px 0 #ffffff00, 
-                1px -1px 0 #ffffff, 
-                -1px -1px 0 #ffffff;
 }
 
 
@@ -40,12 +36,5 @@ th{
 }
 tr{
   border: 2px solid white;
-div{
-    font-size: 25px;
-    text-shadow: -1px 1px 0 #ffffff, 
-                1px 1px 0 #ffffff00, 
-                1px -1px 0 #ffffff, 
-                -1px -1px 0 #ffffff;
-}
 
 
