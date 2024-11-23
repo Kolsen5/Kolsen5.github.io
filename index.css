@@ -14,15 +14,20 @@ h1 {
   padding: 1px;
 }
 
-p, 
-li {
+p {
   font-size: 24px;
   color: White;
   font-weight: bold;
   border: 2px white;
   text-align:center;
 }
-
+li {
+  font-size: 24px;
+  color: White;
+  font-weight: bold;
+  border: 2px white;
+}
+  
 
 a {
   text-decoration: none;
