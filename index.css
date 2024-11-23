@@ -37,5 +37,13 @@ th{
 }
 tr{
   border: 2px solid white;
-
+#springfield{
+  text-align: Left;
+}
+#Chicago{
+  text-align: Center;
+  }
+#Arlington Heights{
+  text-align: Right;
+}
 
