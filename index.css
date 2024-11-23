@@ -48,7 +48,7 @@ tr{
 }
 div {
      text-align: center;
-     display: inline;
+     display: inline-block;
 }
 
 img {
