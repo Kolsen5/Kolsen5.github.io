@@ -8,6 +8,7 @@
     overflow: hidden;
     margin: 50px auto;
     background: white;
+    animation: loop 30s linear infinite;
 }
 
 h1 {
