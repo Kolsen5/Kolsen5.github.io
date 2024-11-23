@@ -55,13 +55,16 @@ td{
   border: 2px solid white;
   color:white;
   width: 300px;
+  text-align: Center;
 }
 th{
   border: 2px solid white;
   color:white;
+  text-align: Center;
 }
 tr{
   border: 2px solid white;
+  text-align: Center;
 
 
 
