@@ -32,6 +32,21 @@ li {
 a {
   text-decoration: none;
 }
+a:link {
+  color: Blue;
+}
+
+a:visited {
+  color: Purple;
+}
+
+a:hover {
+  color: Green;
+}
+
+a:active {
+  color: Black;
+}
 
 body {
   background-image: linear-gradient(Black,Blue,Purple);
