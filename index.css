@@ -138,6 +138,8 @@ header p {
     text-align: justify;
 }
  
-
+table {
+    margin-top:10px //moves your table 10pixels down
+}
 
 
