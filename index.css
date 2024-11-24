@@ -14,7 +14,7 @@
     color: #fff;
     z-index:9999;
 }
-#container .scroll {
+#container.scroll {
     background: #000;
     display: flex;
     align-items: center;
