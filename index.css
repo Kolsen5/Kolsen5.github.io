@@ -8,20 +8,20 @@
     height: 2.5rem;
     font-family: Montserrat;
     position: relative;
-    overflow: hidden;
+    overflow: visible;
     white-space: nowrap;
     background: #000;
     color: #fff;
-    z-index:9999;
+    z-index:10;
 }
-#container.scroll {
+#container .scroll {
     background: #000;
     display: flex;
     align-items: center;
     justify-content: space-around;
     width: fit-content;
     white-space: nowrap;
-    z-index:9999;
+    z-index:10;
     animation: loop 30s linear infinite;
 }
 .fade {
@@ -137,8 +137,3 @@ header p {
     font: 100 15px/1.5 Helvetica, Verdana, sans-serif;
     text-align: justify;
 }
-table{
-  z-index: 10;
-}
-
-
