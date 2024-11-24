@@ -137,3 +137,5 @@ header p {
     font: 100 15px/1.5 Helvetica, Verdana, sans-serif;
     text-align: justify;
 }
+table {
+  top-margin:10px;
